@@ -3,12 +3,45 @@
     {
       "id": 1,
       "title": "hello"
-    },{
+    },
+    {
       "id": 2,
       "title": "Neeraj"
     }
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "mobileList": [
+    {
+      "id": 1,
+      "name": "A",
+      "amount": 45433,
+      "ram": "4GB",
+      "processor": "Intel"
+    },
+    {
+      "id": 2,
+      "name": "A",
+      "amount": 45433,
+      "ram": "4GB",
+      "processor": "Intel"
+    }
+  ],
+  "tvList": [
+    {
+      "id": 1,
+      "name": "A",
+      "amount": 45433,
+      "size": "12 inch",
+      "technology": "HP"
+    },
+    {
+      "id": 2,
+      "name": "A",
+      "amount": 45433,
+      "size": "12 inch",
+      "technology": "HP"
+    }
+  ]
 }
