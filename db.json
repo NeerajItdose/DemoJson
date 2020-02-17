@@ -7,21 +7,22 @@
     {
       "id": 2,
       "title": "Neeraj"
-    },{
+    },
+    {
       "id": 3,
       "title": "Pooja"
     }
   ],
   "profile": {
     "name": "typicode",
-    "contacts":[{
-      "number":"1233445664"
-  },
-  {
-      "number":"1233445664"
-  }
-  
-  ]
+    "contacts": [
+      {
+        "number": "1233445664"
+      },
+      {
+        "number": "1233445664"
+      },
+    ]
   },
   "mobileList": [
     {
